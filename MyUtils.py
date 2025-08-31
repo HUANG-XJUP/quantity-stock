@@ -1,3 +1,5 @@
+"""some tools"""
+
 import pandas as pd
 
 def get_realtime_quotes(stock_code):
